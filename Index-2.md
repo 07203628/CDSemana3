@@ -63,8 +63,8 @@ Semana3/
 - [x] Completar Actividades Prácticas
 - [x] Realizar Análisis Exploratorio de Datos (EDA)
 - [ ] Entregar Avance del Proyecto
-- [ ] Crear Consolidado Semanal
-- [ ] Hacer commit en Git
+- [x] Crear Consolidado Semanal
+- [x] Hacer commit en Git
 
 ---
 
