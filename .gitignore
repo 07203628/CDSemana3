@@ -1,8 +1,29 @@
+# 1. Bloquear todo por defecto en la raiz del repo
+/*
+
+# 2. Permitir el propio gitignore y markdown de control
+!.gitignore
+!*.md
+
+# 3. Permitir carpetas reales de Semana 3 y su contenido
+!Consolidado/
+!Consolidado/**
+
+!EjerciciosComp/
+!EjerciciosComp/**
+
+!Actividades/
+!Actividades/**
+
+!Proyecto/
+!Proyecto/**
+
+!Temas/
+!Temas/**
+
+# 4. Limpieza de archivos temporales
+**/__pycache__/
+**/*.py[cod]
+**/.ipynb_checkpoints/
 .DS_Store
-.vscode/
-__pycache__/
-.ipynb_checkpoints/
-*.pyc
-*.log
-*.tmp
-*.zip
+Thumbs.db
