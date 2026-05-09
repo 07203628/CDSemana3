@@ -1,0 +1,39 @@
+# System files
+.DS_Store
+.CFUserTextEncoding
+.Trash/
+Music/Music/
+
+# User config
+.bash_history
+.zsh_history
+.zprofile
+.zshrc
+.zcompdump
+.zsh_sessions/
+.gitconfig
+.ssh/
+.cache/
+.config/
+.local/
+.ipython/
+.matplotlib/
+.mongodb/
+.npm/
+.runelite/
+.vscode-server/
+.vscode-shared/
+.vscode/
+.Rapp.history
+
+# Directories
+Desktop.save/
+.copilot/
+Downloads/
+Library/
+Movies/
+Music/
+Pictures/
+Public/
+Applications/
+com.visualstudio.code.tunnel.plist
