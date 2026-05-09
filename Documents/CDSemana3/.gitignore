@@ -21,6 +21,9 @@
 !Temas/
 !Temas/**
 
+!Semana7/
+!Semana7/**
+
 # 4. Limpieza de archivos temporales
 **/__pycache__/
 **/*.py[cod]
